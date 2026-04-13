@@ -1,0 +1,2 @@
+Total training time: 53.78 seconds
+Epochs: 1, Batch Size: 64, LR: 0.001
