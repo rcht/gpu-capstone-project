@@ -1,0 +1,5 @@
+tinygrad
+Pillow
+matplotlib
+pandas
+safetensors
