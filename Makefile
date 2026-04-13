@@ -15,7 +15,7 @@ setup:
 
 train:
 	@echo "Training the model..."
-	$(PYTHON) train.py --epochs 5 --batch-size 64
+	$(PYTHON) train.py --epochs 2 --batch-size 64
 	@echo "Training complete."
 
 run:
